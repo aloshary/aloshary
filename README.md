@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 style="background:brown;">HI ! wellcome </h1>
+<h1 style="color:brown;">HI ! wellcome </h1>
 
 <!--
 **aloshary/aloshary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
